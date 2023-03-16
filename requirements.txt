@@ -1,0 +1,24 @@
+flask
+docker
+mongodb
+react
+python
+--------------------------------------------------------------------------------------------------
+MUST DO:
+flask
+mongodb
+postgresql
+docker
+kubernetes
+CRUD
+CI/CD
+AWS
+Azure
+Cloud 
+Springboot
+microservices
+API
+Git
+pipelines
+pipelines to Cloud
+deploying applications using pipelines on Cloud
